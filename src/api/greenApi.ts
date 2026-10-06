@@ -90,7 +90,7 @@ export function createGreenApiClient(
     try {
       return JSON.parse(raw) as T;
     } catch {
-      throw new Error('something wrong');
+      throw new Error('Неожиданная ошибка');
     }
   }
 
