@@ -1,3 +1,4 @@
+cat > README.md <<'EOF'
 # GREEN-API Telegram Chat
 
 Тестовое задание на позицию Frontend React Developer.
@@ -15,7 +16,6 @@ https://green-api-theta-one.vercel.app/
 - TypeScript
 - Vite
 - GREEN-API
-- Vitest
 
 ## Требования
 
